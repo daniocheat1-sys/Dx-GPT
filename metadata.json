@@ -1,0 +1,6 @@
+{
+  "name": "Dx GPT",
+  "description": "An AI conversational assistant styled after Dx GPT, powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
